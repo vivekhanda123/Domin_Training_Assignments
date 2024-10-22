@@ -128,6 +128,7 @@ END
 
 exec usp_GetCustomerData 1
 
+-- Assignment 1
 /* You need to create a stored procedure that retrieves a list of all customers who have purchased a specific product.
 consider below tables Customers, Orders,Order_items and Products
 Create a stored procedure,it should return a list of all customers who have purchased the specified product, 
@@ -161,24 +162,111 @@ END;
 
 EXEC GetCustomersByProduct 101;
 
--- TRY 2
-CREATE PROCEDURE uspGetCustomersByProductNew
-    @ProductID INT
+-- Assignment 2
+/*
+CREATE TABLE Department with the below columns
+  ID,Name
+populate with test data
+ 
+ 
+CREATE TABLE Employee with the below columns
+  ID,Name,Gender,DOB,DeptId
+populate with test data
+ 
+a) Create a procedure to update the Employee details in the Employee table based on the Employee id.
+b) Create a Procedure to get the employee information bypassing the employee gender and department id from the Employee table
+c) Create a Procedure to get the Count of Employee based on Gender(input)
+*/
+
+-- Table Department
+CREATE TABLE Department (
+ID int PRIMARY KEY,
+Name varchar(100) NOT NULL 
+);
+
+-- Adding data into Department
+INSERT INTO Department(ID,Name) 
+VALUES 
+(1,'Testing'),
+(2,'Development'),
+(3,'HR'),
+(4,'Finance');
+
+-- Employee table
+CREATE TABLE Employee (
+ID int PRIMARY KEY,
+Name varchar(100) not null,
+Gender char(1) not null,
+DOB DATE not null,
+DeptId int,
+FOREIGN KEY (DeptId) REFERENCES Department(ID)
+);
+
+-- Inserting values into Employee
+INSERT INTO Employee (ID, Name, Gender, DOB, DeptId) 
+VALUES 
+(1, 'Shivam Katiyar', 'M', '2002-05-10', 1),
+(2, 'Satyam Katiyar', 'M', '2002-11-22', 1),
+(3, 'Akshay Chauhan', 'M', '2002-03-15', 3),
+(4, 'Aditya Chauhan', 'M', '2002-08-30', 4);
+
+-- Show the table 
+select * from Department;
+select * from Employee;
+
+-- Creating a procedure
+CREATE PROCEDURE UpdateEmployeeDetails
+@EmployeeID int,
+@Name varchar(100),
+@Gender char(1),
+@DOB DATE,
+@DeptId int
 AS
 BEGIN
-    SELECT 
-        customers.customer_id AS CustomerID,
-        customers.first_name AS FirstName,
-        customers.last_name AS LastName,
-        orders.order_date AS PurchaseDate
-    FROM 
-        sales.customers AS customers, 
-        sales.orders AS orders, 
-        sales.order_items AS order_items
-    WHERE 
-        customers.customer_id = orders.customer_id
-        AND orders.order_id = order_items.order_id
-        AND order_items.product_id = @ProductID;
+UPDATE Employee
+SET 
+Name = @Name,
+Gender = @Gender,
+DOB = @DOB,
+DeptId = @DeptId
+WHERE ID = @EmployeeID;
 END;
 
-execute uspGetCustomersByProductNew @ProductID =20;
+EXEC UpdateEmployeeDetails 1,'Tanmay Chocksey','M','1995-02-02',1;
+select * from Employee;
+
+-- Second procedure
+CREATE PROCEDURE GetEmployeeByGenderAndDept
+@Gender char(1),
+@DeptId int
+AS
+BEGIN
+select 
+e.ID AS EmployeeID,
+e.Name AS EmployeeName,
+e.Gender,
+e.DOB,
+d.Name AS DepartmentName
+FROM Employee e
+INNER JOIN 
+Department d 
+ON e.DeptId = d.Id
+Where   
+e.Gender = @Gender
+AND e.DeptId = @DeptId;
+END;
+
+EXEC GetEmployeeByGenderAndDept 'M',1
+
+
+--Third procedure
+CREATE PROCEDURE GetEmployeeCountByGender
+@Gender char(1)
+AS 
+BEGIN
+select count(*) AS EmployeeCount
+from Employee
+where Gender = @Gender;
+END;
+
+EXEC GetEmployeeCountByGender 'M'; -- try this with output parameter
