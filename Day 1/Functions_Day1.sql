@@ -1,5 +1,6 @@
 --  User defined function 
 
+-- Scaler Function 
 Create Function GetAllProducts()
 RETURNS INT
 AS
@@ -46,7 +47,7 @@ update MSTVF_GetEmployee() SET Name = 'Tina' where Id = 2 -- cannot update becau
 
 
 -- Assignment 3 
--- Create a user Defined function to calculate the TotalPrice based on productid and Quantity Products Table
+-- Create a user Defined function to calculate the TotalPrice based on productid and Quantity Products Table (Scaler function)
 
 CREATE FUNCTION CalculateTotalPrice(@ProductID int, @Quantity int)
 RETURNS DECIMAL(10,2)
