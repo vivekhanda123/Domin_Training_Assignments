@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 4\\Assignment_Day4_part3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A45642B1-46DD-4606-B29A-57E8744B59B7}|Assignment_Day4_part3.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 4\\assignment_day4_part3\\transportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45642B1-46DD-4606-B29A-57E8744B59B7}|Assignment_Day4_part3.csproj|solutionrelative:transportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45642B1-46DD-4606-B29A-57E8744B59B7}|Assignment_Day4_part3.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 4\\assignment_day4_part3\\transportschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45642B1-46DD-4606-B29A-57E8744B59B7}|Assignment_Day4_part3.csproj|solutionrelative:transportschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45642B1-46DD-4606-B29A-57E8744B59B7}|Assignment_Day4_part3.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 4\\assignment_day4_part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45642B1-46DD-4606-B29A-57E8744B59B7}|Assignment_Day4_part3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 4\\Assignment_Day4_part3\\TransportManager.cs",
+              "RelativeDocumentMoniker": "TransportManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 4\\Assignment_Day4_part3\\TransportManager.cs",
+              "RelativeToolTip": "TransportManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:47:28.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransportSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 4\\Assignment_Day4_part3\\TransportSchedule.cs",
+              "RelativeDocumentMoniker": "TransportSchedule.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 4\\Assignment_Day4_part3\\TransportSchedule.cs",
+              "RelativeToolTip": "TransportSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:46:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 4\\Assignment_Day4_part3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 4\\Assignment_Day4_part3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:35:06.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

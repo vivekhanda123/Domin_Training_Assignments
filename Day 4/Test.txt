@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <BookId>1</BookId>
+    <Title>1984</Title>
+    <AuthorId>1</AuthorId>
+    <PublishedYear>1949</PublishedYear>
+    <Genre>Dystopian</Genre>
+  </Author>
+  <Author>
+    <BookId>2</BookId>
+    <Title>The Naval Ravikant</Title>
+    <AuthorId>2</AuthorId>
+    <PublishedYear>1960</PublishedYear>
+    <Genre>Fiction</Genre>
+  </Author>
+  <Author>
+    <BookId>3</BookId>
+    <Title>The Alchemist</Title>
+    <AuthorId>3</AuthorId>
+    <PublishedYear>1813</PublishedYear>
+    <Genre>Romance</Genre>
+  </Author>
+  <Author>
+    <BookId>4</BookId>
+    <Title>The Ultimate Gift</Title>
+    <AuthorId>4</AuthorId>
+    <PublishedYear>1925</PublishedYear>
+    <Genre>Tragedy</Genre>
+  </Author>
+  <Author>
+    <BookId>5</BookId>
+    <Title>Champak</Title>
+    <AuthorId>5</AuthorId>
+    <PublishedYear>1851</PublishedYear>
+    <Genre>Adventure</Genre>
+  </Author>
+</ArrayOfAuthor>
