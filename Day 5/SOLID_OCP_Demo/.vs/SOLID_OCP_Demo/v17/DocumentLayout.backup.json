@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F06A0C-9FBB-47E3-8A55-E8FF0249AA90}|..\\SOLID_Dependency_Inversion\\SOLID_Dependency_Inversion.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_dependency_inversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F06A0C-9FBB-47E3-8A55-E8FF0249AA90}|..\\SOLID_Dependency_Inversion\\SOLID_Dependency_Inversion.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_dependency_inversion\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B934CB4C-6827-4A94-9F68-F1B845E81E63}|..\\SOLID_Interface_segregation\\SOLID_Interface_segregation.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_interface_segregation\\investmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B934CB4C-6827-4A94-9F68-F1B845E81E63}|..\\SOLID_Interface_segregation\\SOLID_Interface_segregation.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_interface_segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B934CB4C-6827-4A94-9F68-F1B845E81E63}|..\\SOLID_Interface_segregation\\SOLID_Interface_segregation.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_interface_segregation\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B934CB4C-6827-4A94-9F68-F1B845E81E63}|..\\SOLID_Interface_segregation\\SOLID_Interface_segregation.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_interface_segregation\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEF3C37-EE00-47E2-9595-1F86CBA7A0B3}|SOLID_OCP_Demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_ocp_demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEF3C37-EE00-47E2-9595-1F86CBA7A0B3}|SOLID_OCP_Demo.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEF3C37-EE00-47E2-9595-1F86CBA7A0B3}|SOLID_OCP_Demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_ocp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEF3C37-EE00-47E2-9595-1F86CBA7A0B3}|SOLID_OCP_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEF3C37-EE00-47E2-9595-1F86CBA7A0B3}|SOLID_OCP_Demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_ocp_demo\\temporaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEF3C37-EE00-47E2-9595-1F86CBA7A0B3}|SOLID_OCP_Demo.csproj|solutionrelative:temporaryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEF3C37-EE00-47E2-9595-1F86CBA7A0B3}|SOLID_OCP_Demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\solid_ocp_demo\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEF3C37-EE00-47E2-9595-1F86CBA7A0B3}|SOLID_OCP_Demo.csproj|solutionrelative:permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Dependency_Inversion\\IAudioPlayer.cs",
+              "RelativeDocumentMoniker": "..\\SOLID_Dependency_Inversion\\IAudioPlayer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Dependency_Inversion\\IAudioPlayer.cs",
+              "RelativeToolTip": "..\\SOLID_Dependency_Inversion\\IAudioPlayer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:07:35.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Dependency_Inversion\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SOLID_Dependency_Inversion\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Dependency_Inversion\\Program.cs",
+              "RelativeToolTip": "..\\SOLID_Dependency_Inversion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:47:55.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Interface_segregation\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "..\\SOLID_Interface_segregation\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Interface_segregation\\SavingsAccount.cs",
+              "RelativeToolTip": "..\\SOLID_Interface_segregation\\SavingsAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:03:09.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvestmentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Interface_segregation\\InvestmentAccount.cs",
+              "RelativeDocumentMoniker": "..\\SOLID_Interface_segregation\\InvestmentAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Interface_segregation\\InvestmentAccount.cs",
+              "RelativeToolTip": "..\\SOLID_Interface_segregation\\InvestmentAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:02:47.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Interface_segregation\\IAccount.cs",
+              "RelativeDocumentMoniker": "..\\SOLID_Interface_segregation\\IAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Interface_segregation\\IAccount.cs",
+              "RelativeToolTip": "..\\SOLID_Interface_segregation\\IAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:58:32.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Interface_segregation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SOLID_Interface_segregation\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_Interface_segregation\\Program.cs",
+              "RelativeToolTip": "..\\SOLID_Interface_segregation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:57:43.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TemporaryEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\TemporaryEmployee.cs",
+              "RelativeDocumentMoniker": "TemporaryEmployee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\TemporaryEmployee.cs",
+              "RelativeToolTip": "TemporaryEmployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:08:47.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PermanentEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\PermanentEmployee.cs",
+              "RelativeDocumentMoniker": "PermanentEmployee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\PermanentEmployee.cs",
+              "RelativeToolTip": "PermanentEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:05:09.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:01:17.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\SOLID_OCP_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:00:56.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

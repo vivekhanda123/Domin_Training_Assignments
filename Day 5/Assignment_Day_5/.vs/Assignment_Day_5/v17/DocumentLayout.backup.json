@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A0A9E-1C23-4595-948D-1257BEA008FA}|..\\Creational_Singleton\\Creational_Singleton.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\creational_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A0A9E-1C23-4595-948D-1257BEA008FA}|..\\Creational_Singleton\\Creational_Singleton.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\creational_singleton\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A237E729-F25D-4413-B3C7-246628F65276}|..\\Factory_pattern_demo\\Factory_pattern_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\factory_pattern_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A237E729-F25D-4413-B3C7-246628F65276}|..\\Factory_pattern_demo\\Factory_pattern_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\factory_pattern_demo\\creditcardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A237E729-F25D-4413-B3C7-246628F65276}|..\\Factory_pattern_demo\\Factory_pattern_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\factory_pattern_demo\\icreditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\assignment_day_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\assignment_day_5\\repository\\librarianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|solutionrelative:repository\\librarianrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\assignment_day_5\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\assignment_day_5\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|solutionrelative:repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\assignment_day_5\\service\\librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|solutionrelative:service\\librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\assignment_day_5\\interface\\ireservebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|solutionrelative:interface\\ireservebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\assignment_day_5\\interface\\imanagebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|solutionrelative:interface\\imanagebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 5\\assignment_day_5\\interface\\iborrowbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A0BA97-E494-468E-B54D-1877D88A3A94}|Assignment_Day_5.csproj|solutionrelative:interface\\iborrowbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Creational_Singleton\\Configuration.cs",
+              "RelativeDocumentMoniker": "..\\Creational_Singleton\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Creational_Singleton\\Configuration.cs",
+              "RelativeToolTip": "..\\Creational_Singleton\\Configuration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:18:59.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Creational_Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Creational_Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Creational_Singleton\\Program.cs",
+              "RelativeToolTip": "..\\Creational_Singleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:18:21.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Factory_pattern_demo\\ICreditCard.cs",
+              "RelativeDocumentMoniker": "..\\Factory_pattern_demo\\ICreditCard.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Factory_pattern_demo\\ICreditCard.cs",
+              "RelativeToolTip": "..\\Factory_pattern_demo\\ICreditCard.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAywB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:50:35.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCardFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Factory_pattern_demo\\CreditCardFactory.cs",
+              "RelativeDocumentMoniker": "..\\Factory_pattern_demo\\CreditCardFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Factory_pattern_demo\\CreditCardFactory.cs",
+              "RelativeToolTip": "..\\Factory_pattern_demo\\CreditCardFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:50:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Factory_pattern_demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Factory_pattern_demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Factory_pattern_demo\\Program.cs",
+              "RelativeToolTip": "..\\Factory_pattern_demo\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:48:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:21:39.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrarianRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Repository\\LibrarianRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LibrarianRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Repository\\LibrarianRepository.cs",
+              "RelativeToolTip": "Repository\\LibrarianRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:22:52.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:10:24.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "Repository\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:22:33.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Service\\LibraryManagementSystem.cs",
+              "RelativeDocumentMoniker": "Service\\LibraryManagementSystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Service\\LibraryManagementSystem.cs",
+              "RelativeToolTip": "Service\\LibraryManagementSystem.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:29:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReserveBook.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Interface\\IReserveBook.cs",
+              "RelativeDocumentMoniker": "Interface\\IReserveBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Interface\\IReserveBook.cs",
+              "RelativeToolTip": "Interface\\IReserveBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:15:28.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IManageBook.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Interface\\IManageBook.cs",
+              "RelativeDocumentMoniker": "Interface\\IManageBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Interface\\IManageBook.cs",
+              "RelativeToolTip": "Interface\\IManageBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:15:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBorrowBook.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Interface\\IBorrowBook.cs",
+              "RelativeDocumentMoniker": "Interface\\IBorrowBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 5\\Assignment_Day_5\\Interface\\IBorrowBook.cs",
+              "RelativeToolTip": "Interface\\IBorrowBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:15:07.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
