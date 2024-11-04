@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18CBFAEE-3907-4464-8D68-0688C5F3094A}|..\\Product_Test\\Product_Test.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\product_test\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6507131-C994-42D1-ABD7-AADC0DDCFEAB}|..\\ProductManagementSystem\\ProductManagementSystem.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\productmanagementsystem\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6507131-C994-42D1-ABD7-AADC0DDCFEAB}|..\\ProductManagementSystem\\ProductManagementSystem.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\productmanagementsystem\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6507131-C994-42D1-ABD7-AADC0DDCFEAB}|..\\ProductManagementSystem\\ProductManagementSystem.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\productmanagementsystem\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6507131-C994-42D1-ABD7-AADC0DDCFEAB}|..\\ProductManagementSystem\\ProductManagementSystem.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\productmanagementsystem\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CBFAEE-3907-4464-8D68-0688C5F3094A}|..\\Product_Test\\Product_Test.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\product_test\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9678617-192E-4418-A356-1FF3EA387CE2}|..\\Product_App\\Product_App.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\product_app\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CBFAEE-3907-4464-8D68-0688C5F3094A}|..\\Product_Test\\Product_Test.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\product_test\\calculatorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6507131-C994-42D1-ABD7-AADC0DDCFEAB}|..\\ProductManagementSystem\\ProductManagementSystem.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\productmanagementsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6507131-C994-42D1-ABD7-AADC0DDCFEAB}|..\\ProductManagementSystem\\ProductManagementSystem.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\productmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9678617-192E-4418-A356-1FF3EA387CE2}|..\\Product_App\\Product_App.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 7\\product_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_Test\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Product_Test\\OrderServiceTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_Test\\OrderServiceTests.cs",
+              "RelativeToolTip": "..\\Product_Test\\OrderServiceTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:33:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagementSystem\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\OrderService.cs",
+              "RelativeToolTip": "..\\ProductManagementSystem\\OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vw8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:22:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagementSystem\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\IOrderService.cs",
+              "RelativeToolTip": "..\\ProductManagementSystem\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:20:48.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagementSystem\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\IProductService.cs",
+              "RelativeToolTip": "..\\ProductManagementSystem\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:54.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagementSystem\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\ProductService.cs",
+              "RelativeToolTip": "..\\ProductManagementSystem\\ProductService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:07:21.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_Test\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\Product_Test\\ProductServiceTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_Test\\ProductServiceTest.cs",
+              "RelativeToolTip": "..\\Product_Test\\ProductServiceTest.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAArwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:39:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\Product.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagementSystem\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\Product.cs",
+              "RelativeToolTip": "..\\ProductManagementSystem\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:06:03.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProductManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\ProductManagementSystem\\Program.cs",
+              "RelativeToolTip": "..\\ProductManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:05:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_App\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "..\\Product_App\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_App\\ICalculatorService.cs",
+              "RelativeToolTip": "..\\Product_App\\ICalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:23:09.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_Test\\CalculatorServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\Product_Test\\CalculatorServiceTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_Test\\CalculatorServiceTest.cs",
+              "RelativeToolTip": "..\\Product_Test\\CalculatorServiceTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:01:51.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_App\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Product_App\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 7\\Product_App\\Program.cs",
+              "RelativeToolTip": "..\\Product_App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:33:39.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

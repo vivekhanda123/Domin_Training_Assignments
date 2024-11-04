@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Demo1.Models.Department>
+
+<h1>This is the Departments Controller Index Page</h1>
+
+<h3>@ViewData["Message"]</h3>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>Name</th>
+            <th>Location</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DepartmentId</td>
+                <td>@item.Name</td>
+                <td>@item.Location</td>
+                <td>
+                    <a asp-controller="Depatments" asp-action="Details" asp-route-id="@item.DepartmentId">Detail</a> |
+                    <a asp-controller="Depatments" asp-action="Edit" asp-route-id="@item.DepartmentId">Edit</a> |
+                    <a asp-controller="Depatments" asp-action="Delete" asp-route-id="@item.DepartmentId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@* Example of a commented-out section (not displayed in the view) *@

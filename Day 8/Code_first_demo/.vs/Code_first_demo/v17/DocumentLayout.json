@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\migrations\\20241101100838_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:migrations\\20241101100838_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\migrations\\20241104041332_employee table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:migrations\\20241104041332_employee table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 8\\code_first_demo\\code_first_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{94B6C0C3-A2E9-4DCD-AA85-C50842C03EC9}|Code_first_demo.csproj|solutionrelative:code_first_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:32:25.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:31:34.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:28:22.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:53:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:33:16.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:21:29.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:08:49.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:06:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:06:49.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T05:30:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Models\\MyContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Models\\MyContext.cs",
+              "RelativeToolTip": "Models\\MyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:44:54.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T09:42:02.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241101100838_dbcreation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Migrations\\20241101100838_dbcreation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241101100838_dbcreation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Migrations\\20241101100838_dbcreation.cs",
+              "RelativeToolTip": "Migrations\\20241101100838_dbcreation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:08:43.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241104041332_Employee table added.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Migrations\\20241104041332_Employee table added.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104041332_Employee table added.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Migrations\\20241104041332_Employee table added.cs",
+              "RelativeToolTip": "Migrations\\20241104041332_Employee table added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:13:33.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:05:23.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:44:03.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Code_first_demo.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Code_first_demo.csproj",
+              "RelativeDocumentMoniker": "Code_first_demo.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 8\\Code_first_demo\\Code_first_demo.csproj",
+              "RelativeToolTip": "Code_first_demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T09:41:58.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

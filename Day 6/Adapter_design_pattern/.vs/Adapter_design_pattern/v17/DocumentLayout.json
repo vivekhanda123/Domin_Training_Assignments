@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Adapter_design_pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAD3DD9-549C-4ECE-9F2E-006E19AFE4EE}|..\\Behavioral_Observer_Pattern\\Behavioral_Observer_Pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\behavioral_observer_pattern\\iinvester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAD3DD9-549C-4ECE-9F2E-006E19AFE4EE}|..\\Behavioral_Observer_Pattern\\Behavioral_Observer_Pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\behavioral_observer_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA523EC-11C7-4DF1-A3F1-F4135D50385A}|..\\Behavioral_Mediator_pattern\\Behavioral_Mediator_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\behavioral_mediator_pattern\\ichatroommediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA523EC-11C7-4DF1-A3F1-F4135D50385A}|..\\Behavioral_Mediator_pattern\\Behavioral_Mediator_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\behavioral_mediator_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD631C8E-339B-42FF-B1CA-FF6BD76991DB}|..\\Behavioral_ChainOfResponsibility\\Behavioral_ChainOfResponsibility.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\behavioral_chainofresponsibility\\isupporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD631C8E-339B-42FF-B1CA-FF6BD76991DB}|..\\Behavioral_ChainOfResponsibility\\Behavioral_ChainOfResponsibility.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\behavioral_chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275367F5-6CF3-45D7-BF96-658242106577}|..\\Structural_Decorator_pattern\\Structural_Decorator_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\structural_decorator_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275367F5-6CF3-45D7-BF96-658242106577}|..\\Structural_Decorator_pattern\\Structural_Decorator_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\structural_decorator_pattern\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A5B2FB-7D8E-4AA1-912C-DA129728986A}|..\\Structural_facade_design_pattern\\Structural_facade_design_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\structural_facade_design_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A5B2FB-7D8E-4AA1-912C-DA129728986A}|..\\Structural_facade_design_pattern\\Structural_facade_design_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\structural_facade_design_pattern\\customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A5B2FB-7D8E-4AA1-912C-DA129728986A}|..\\Structural_facade_design_pattern\\Structural_facade_design_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\structural_facade_design_pattern\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3498D23-60B3-4CE7-872F-F336DC471578}|Adapter_design_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\adapter_design_pattern\\oldpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3498D23-60B3-4CE7-872F-F336DC471578}|Adapter_design_pattern.csproj|solutionrelative:oldpaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3498D23-60B3-4CE7-872F-F336DC471578}|Adapter_design_pattern.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 6\\adapter_design_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3498D23-60B3-4CE7-872F-F336DC471578}|Adapter_design_pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IInvester.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_Observer_Pattern\\IInvester.cs",
+              "RelativeDocumentMoniker": "..\\Behavioral_Observer_Pattern\\IInvester.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_Observer_Pattern\\IInvester.cs",
+              "RelativeToolTip": "..\\Behavioral_Observer_Pattern\\IInvester.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:05:59.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_Observer_Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Behavioral_Observer_Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_Observer_Pattern\\Program.cs",
+              "RelativeToolTip": "..\\Behavioral_Observer_Pattern\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:05:25.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IChatRoomMediator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_Mediator_pattern\\IChatRoomMediator.cs",
+              "RelativeDocumentMoniker": "..\\Behavioral_Mediator_pattern\\IChatRoomMediator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_Mediator_pattern\\IChatRoomMediator.cs",
+              "RelativeToolTip": "..\\Behavioral_Mediator_pattern\\IChatRoomMediator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:18:22.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_Mediator_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Behavioral_Mediator_pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_Mediator_pattern\\Program.cs",
+              "RelativeToolTip": "..\\Behavioral_Mediator_pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:17:43.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISupportHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_ChainOfResponsibility\\ISupportHandler.cs",
+              "RelativeDocumentMoniker": "..\\Behavioral_ChainOfResponsibility\\ISupportHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_ChainOfResponsibility\\ISupportHandler.cs",
+              "RelativeToolTip": "..\\Behavioral_ChainOfResponsibility\\ISupportHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:04:30.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Behavioral_ChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Behavioral_ChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "..\\Behavioral_ChainOfResponsibility\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:03:28.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_Decorator_pattern\\Pizza.cs",
+              "RelativeDocumentMoniker": "..\\Structural_Decorator_pattern\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_Decorator_pattern\\Pizza.cs",
+              "RelativeToolTip": "..\\Structural_Decorator_pattern\\Pizza.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:20:20.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_Decorator_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Structural_Decorator_pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_Decorator_pattern\\Program.cs",
+              "RelativeToolTip": "..\\Structural_Decorator_pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:19:54.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_facade_design_pattern\\CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "..\\Structural_facade_design_pattern\\CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_facade_design_pattern\\CustomerRegistration.cs",
+              "RelativeToolTip": "..\\Structural_facade_design_pattern\\CustomerRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:21:01.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_facade_design_pattern\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\Structural_facade_design_pattern\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_facade_design_pattern\\Customer.cs",
+              "RelativeToolTip": "..\\Structural_facade_design_pattern\\Customer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:05:25.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_facade_design_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Structural_facade_design_pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Structural_facade_design_pattern\\Program.cs",
+              "RelativeToolTip": "..\\Structural_facade_design_pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:05:03.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OldPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Adapter_design_pattern\\OldPaymentService.cs",
+              "RelativeDocumentMoniker": "OldPaymentService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Adapter_design_pattern\\OldPaymentService.cs",
+              "RelativeToolTip": "OldPaymentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:21:19.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Adapter_design_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 6\\Adapter_design_pattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:20:15.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
