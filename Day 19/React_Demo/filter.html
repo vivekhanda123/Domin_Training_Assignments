@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In-Stock Products</title>
+</head>
+<body>
+    <h1>Products In Stock</h1>
+    <ul id="productList">
+    </ul>
+
+    <script>
+        const products = [
+            {id: 1, name: 'Laptop', details: {price: 49999, instock: true}},
+            {id: 2, name: 'Phone', details: {price: 49999, instock: false}},
+            {id: 3, name: 'Speaker', details: {price: 49999, instock: true}},
+            {id: 4, name: 'Car', details: {price: 49999, instock: false}},
+            {id: 5, name: 'Watch', details: {price: 49999, instock: true}},
+        ];
+
+        const inStockProducts = products.filter((product) => product.details.instock);
+
+        const productList = document.getElementById('productList');
+
+        inStockProducts.forEach(product => {
+            const listItem = document.createElement('li');
+            listItem.textContent = `${product.name} - ₹${product.details.price}`; 
+            productList.appendChild(listItem); 
+        });
+    </script>
+</body>
+</html>

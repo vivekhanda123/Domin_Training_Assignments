@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul id="userList">
+        <script>
+            const users=[
+            {id:1,name:"Vivek",email:"vivek@gmail.com"},
+            {id:2,name:"Shivam",email:"shivam@gmail.com"},
+            {id:3,name:"Akshay",email:"akshay@gmail.com"}
+            ];
+
+            const userListElement = document.getElementById("userList");
+            users.map((user)=>{
+                const listItem = document.createElement("li");
+                listItem.textContent = `ID: ${user.id}, Name: ${user.name}, Email: ${user.email}`;
+                userListElement.appendChild(listItem);
+            });
+        </script>
+    </ul>
+</body>
+</html>

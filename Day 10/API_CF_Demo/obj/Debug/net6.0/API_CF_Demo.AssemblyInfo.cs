@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_CF_Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ea6b05f010bb8060fbf2db032b70728b4a664ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03b25905b5d42f545b2b3a9b77f4a1e79c340603")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_CF_Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_CF_Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 14\\Custom_Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476E2535-BA03-404A-B589-4ABE31BDCCD9}|Custom_Middleware.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 14\\custom_middleware\\middleware\\custommiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E2535-BA03-404A-B589-4ABE31BDCCD9}|Custom_Middleware.csproj|solutionrelative:middleware\\custommiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476E2535-BA03-404A-B589-4ABE31BDCCD9}|Custom_Middleware.csproj|c:\\users\\admin\\desktop\\hexa training\\domain specific\\git\\day 14\\custom_middleware\\middleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476E2535-BA03-404A-B589-4ABE31BDCCD9}|Custom_Middleware.csproj|solutionrelative:middleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 14\\Custom_Middleware\\Middleware\\CustomMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Middleware\\CustomMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 14\\Custom_Middleware\\Middleware\\CustomMiddlewareExtensions.cs",
+              "RelativeToolTip": "Middleware\\CustomMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:12:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 14\\Custom_Middleware\\Middleware\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\CustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 14\\Custom_Middleware\\Middleware\\CustomMiddleware.cs",
+              "RelativeToolTip": "Middleware\\CustomMiddleware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:11:39.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

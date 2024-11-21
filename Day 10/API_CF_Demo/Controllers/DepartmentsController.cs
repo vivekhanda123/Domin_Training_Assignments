@@ -1,5 +1,6 @@
 ﻿using API_CF_Demo.Models;
 using API_CF_Demo.Repositories;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,6 +17,7 @@ namespace API_CF_Demo.Controllers
         }
         //[Route("AllDepartments")]
         //[Route("GetAll")]
+        [EnableCors("MyPolicy")]
         [HttpGet]
         public IActionResult GetAll()
         {

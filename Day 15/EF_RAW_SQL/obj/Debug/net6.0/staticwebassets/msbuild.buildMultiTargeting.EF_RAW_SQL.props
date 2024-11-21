@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EF_RAW_SQL.props" />
+</Project>

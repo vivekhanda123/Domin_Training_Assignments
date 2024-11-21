@@ -6,14 +6,22 @@ namespace API_CF_Demo.Repositories
     public class DepartmentService : IDepartmentService
     {
         private MyDbContext _context;
-        public DepartmentService(MyDbContext context)
+        private MyDbContext @object;
+        private readonly ILogger<DepartmentService> _logger;
+        public DepartmentService(MyDbContext context,ILogger<DepartmentService> logger)
         {
             _context = context;
+            _logger = logger;
         }
         
+        public DepartmentService(MyDbContext @object)
+        {
+            this.@object = @object;
+        }
         // Get all department data
         public List<Department> GetAllDepartments()
         {
+            _logger.LogInformation("GetAllDepartments Called");
             var departments = _context.Departments.ToList();
             if(departments.Count> 0)
             {
@@ -39,6 +47,8 @@ namespace API_CF_Demo.Repositories
                 {
                     _context.Departments.Add(department);
                     _context.SaveChanges();
+                    _logger.LogInformation($"{department.Id} Added successfully");
+
                     return department.Id;
                 }
                 else return 0;
@@ -58,6 +68,7 @@ namespace API_CF_Demo.Repositories
                 {
                     _context.Departments.Remove(department);
                     _context.SaveChanges();
+                    _logger.LogInformation($"{department.Id} Deleted successfully");
                     return "the given Department id" + id + "Removed";
                 }
                 else
@@ -88,6 +99,8 @@ namespace API_CF_Demo.Repositories
                 existingDepartment.DepartmentHead = department.DepartmentHead;
                 _context.Entry(existingDepartment).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
                 _context.SaveChanges();
+                _logger.LogInformation($"Department Id{department.Id} updated successfully");
+
                 return "Record Updated successfully";
             }
             else

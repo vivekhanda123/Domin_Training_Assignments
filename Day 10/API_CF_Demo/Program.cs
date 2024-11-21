@@ -19,6 +19,25 @@ namespace API_CF_Demo
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            // Adding CORS Code
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("MyPolicy",
+                    builder =>
+                    {
+                        builder.AllowAnyOrigin()
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+                    });
+                //options.AddPolicy("AllowSpecificOrigin",
+                //    policy =>
+                //    {
+                //        policy.WithOrigins("http://127.0.0.1:5500")
+                //        .AllowAnyHeader()
+                //        .AllowAnyMethod();
+                //    });
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -29,6 +48,8 @@ namespace API_CF_Demo
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors(); // Use CORS
 
             app.UseAuthorization();
 
