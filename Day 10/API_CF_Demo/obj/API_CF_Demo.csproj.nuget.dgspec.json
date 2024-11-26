@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\API_CF_Demo.csproj": {}
+    "E:\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\API_CF_Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\API_CF_Demo.csproj": {
+    "E:\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\API_CF_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\API_CF_Demo.csproj",
+        "projectUniqueName": "E:\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\API_CF_Demo.csproj",
         "projectName": "API_CF_Demo",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\API_CF_Demo.csproj",
+        "projectPath": "E:\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\API_CF_Demo.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\obj\\",
+        "outputPath": "E:\\Hexa Training\\Domain Specific\\Git\\Day 10\\API_CF_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

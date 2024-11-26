@@ -11,31 +11,28 @@ namespace API_CF_Demo
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddDbContext<MyDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("myconnection")));
+            builder.Services.AddDbContext<MyDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("myconnection")));
+
+            // Register custom services
             builder.Services.AddScoped<IDepartmentService, DepartmentService>();
             builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+            // Swagger configuration
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            // Adding CORS Code
+            // Adding CORS Policy
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy("MyPolicy",
-                    builder =>
-                    {
-                        builder.AllowAnyOrigin()
-                        .AllowAnyHeader()
-                        .AllowAnyMethod();
-                    });
-                //options.AddPolicy("AllowSpecificOrigin",
-                //    policy =>
-                //    {
-                //        policy.WithOrigins("http://127.0.0.1:5500")
-                //        .AllowAnyHeader()
-                //        .AllowAnyMethod();
-                //    });
+                options.AddPolicy("MyPolicy", policy =>
+                {
+                    policy.AllowAnyOrigin()
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
             });
 
             var app = builder.Build();
@@ -49,10 +46,13 @@ namespace API_CF_Demo
 
             app.UseHttpsRedirection();
 
-            app.UseCors(); // Use CORS
+            // UseRouting needs to come before UseCors
+            app.UseRouting();
+
+            // Apply the CORS policy
+            app.UseCors("MyPolicy");
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 

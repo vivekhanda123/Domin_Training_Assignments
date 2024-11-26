@@ -1,7 +1,18 @@
-.App {
-  text-align: center;
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: blue; /* Changed to blue */
 }
 
+.App {
+  text-align: center;
+  padding: 20px;
+  color: blue; /* Changed to blue */
+}
+
+/* App Logo Animation */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -13,21 +24,6 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -37,7 +33,121 @@
   }
 }
 
-button{
+/* Header Section */
+header {
+  background-color: #282c34;
+  padding: 20px;
+  color: blue; /* Changed to blue */
+}
+
+header h2 {
+  margin: 0;
+  font-size: 2rem;
+  padding-bottom: 10px;
+  color: blue; /* Changed to blue */
+}
+
+/* App Header */
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: blue; /* Changed to blue */
+}
+
+/* Links */
+.App-link {
+  color: #61dafb;
+}
+
+/* Button Style */
+button {
   background-color: aqua;
-  color: blueviolet;
+  color: blue; /* Changed to blue */
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+  background-color: #d0ffff;
+  transform: scale(1.05);
+}
+
+/* Main Section */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  color: blue; /* Changed to blue */
+}
+
+/* Core Concepts Section */
+#core-concepts {
+  margin-top: 20px;
+  color: blue; /* Changed to blue */
+}
+
+#core-concepts ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+#core-concepts ul li {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  text-align: left;
+  transition: transform 0.2s ease;
+  color: blue; /* Changed to blue */
+}
+
+#core-concepts ul li:hover {
+  transform: translateY(-5px);
+}
+
+/* Core Concept Card */
+.core-concept-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  color: blue; /* Changed to blue */
+}
+
+.core-concept-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.core-concept-card h3 {
+  margin: 10px 0;
+  font-size: 1.5rem;
+  color: blue; /* Changed to blue */
+}
+
+.core-concept-card p {
+  font-size: 1rem;
+  color: blue; /* Changed to blue */
+  line-height: 1.6;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  #core-concepts ul {
+    grid-template-columns: 1fr;
+  }
 }

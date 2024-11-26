@@ -1,112 +1,127 @@
 ﻿using API_CF_Demo.Data;
 using API_CF_Demo.Models;
+using Microsoft.Extensions.Logging;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace API_CF_Demo.Repositories
 {
     public class DepartmentService : IDepartmentService
     {
-        private MyDbContext _context;
-        private MyDbContext @object;
+        private readonly MyDbContext _context;
         private readonly ILogger<DepartmentService> _logger;
-        public DepartmentService(MyDbContext context,ILogger<DepartmentService> logger)
+
+        public DepartmentService(MyDbContext context, ILogger<DepartmentService> logger)
         {
             _context = context;
             _logger = logger;
         }
-        
-        public DepartmentService(MyDbContext @object)
-        {
-            this.@object = @object;
-        }
+
         // Get all department data
         public List<Department> GetAllDepartments()
         {
             _logger.LogInformation("GetAllDepartments Called");
             var departments = _context.Departments.ToList();
-            if(departments.Count> 0)
-            {
-                return departments;
-            }
-            else
-            {
-                return null;
-            }
+            return departments.Count > 0 ? departments : new List<Department>();
         }
 
+        // Search for a department by name
         public List<Department> SearchByName(string name)
         {
-            var departments = _context.Departments.Where(x=>x.Name.Contains(name)).ToList();
-            return departments;
+            return _context.Departments
+                .Where(x => x.Name.Contains(name))
+                .ToList();
         }
 
+        // Add a new department
         public int AddNewDepartment(Department department)
         {
             try
             {
-                if (department != null)
+                if (department == null)
                 {
-                    _context.Departments.Add(department);
-                    _context.SaveChanges();
-                    _logger.LogInformation($"{department.Id} Added successfully");
-
-                    return department.Id;
+                    _logger.LogWarning("Attempted to add a null department");
+                    return 0;
                 }
-                else return 0;
+
+                _context.Departments.Add(department);
+                _context.SaveChanges();
+                _logger.LogInformation($"{department.Id} added successfully");
+
+                return department.Id;
             }
-            catch(Exception e)
+            catch (Exception e)
             {
-                throw new Exception(e.Message);
+                _logger.LogError(e, "Error occurred while adding a new department");
+                throw;
             }
         }
 
+        // Delete a department by ID
         public string DeleteDepartment(int id)
         {
-            if (id != null)
+            if (id <= 0)
             {
-                var department = _context.Departments.FirstOrDefault(x => x.Id == id);
-                if (department != null)
-                {
-                    _context.Departments.Remove(department);
-                    _context.SaveChanges();
-                    _logger.LogInformation($"{department.Id} Deleted successfully");
-                    return "the given Department id" + id + "Removed";
-                }
-                else
-                    return "Something went wrong with deletion";
+                _logger.LogWarning("Invalid ID provided for deletion");
+                return "ID should not be null or zero.";
             }
-            return "Id should not be null or zero";
+
+            var department = _context.Departments.FirstOrDefault(x => x.Id == id);
+            if (department != null)
+            {
+                _context.Departments.Remove(department);
+                _context.SaveChanges();
+                _logger.LogInformation($"{department.Id} deleted successfully");
+
+                return $"The given Department ID {id} was removed.";
+            }
+
+            _logger.LogWarning($"Department with ID {id} not found for deletion");
+            return "Department not found for deletion.";
         }
 
+        // Get a department by ID
         public Department GetDepartmentById(int id)
         {
-            if (id != 0 || id != null)
+            if (id <= 0)
             {
-                var depaertment = _context.Departments.FirstOrDefault(x => x.Id == id);
-                if (depaertment != null)
-                    return depaertment;
-                else
-                    return null;
+                _logger.LogWarning("Invalid ID provided for retrieval");
+                return null;
             }
-            return null;
+
+            var department = _context.Departments.FirstOrDefault(x => x.Id == id);
+            if (department == null)
+            {
+                _logger.LogWarning($"Department with ID {id} not found.");
+            }
+
+            return department;
         }
 
+        // Update an existing department
         public string UpdateDepartment(Department department)
         {
-            var existingDepartment = _context.Departments.FirstOrDefault(x=>x.Id == department.Id);
+            if (department == null || department.Id <= 0)
+            {
+                _logger.LogWarning("Invalid department data provided for update");
+                return "Invalid department data.";
+            }
+
+            var existingDepartment = _context.Departments.FirstOrDefault(x => x.Id == department.Id);
             if (existingDepartment != null)
             {
                 existingDepartment.Name = department.Name;
                 existingDepartment.DepartmentHead = department.DepartmentHead;
                 _context.Entry(existingDepartment).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
                 _context.SaveChanges();
-                _logger.LogInformation($"Department Id{department.Id} updated successfully");
+                _logger.LogInformation($"Department ID {department.Id} updated successfully");
 
-                return "Record Updated successfully";
+                return "Record updated successfully.";
             }
-            else
-            {
-                return "Something went wrong while updating.";
-            }
+
+            _logger.LogWarning($"Department with ID {department.Id} not found for update");
+            return "Department not found for update.";
         }
     }
 }
